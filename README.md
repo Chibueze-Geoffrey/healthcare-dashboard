@@ -21,6 +21,7 @@ A **Healthcare Appointment Dashboard** built with **React.js** (Web) and **React
 - **State Management:** React Hooks
 - **API Calls:** Axios
 - **Navigation:** React Router (Web) & React Navigation (Mobile)
+- **Backend Logic:** Node.js
 - **Styling:** CSS (Web) & React Native Styles (Mobile)
 
 ---
@@ -36,6 +37,7 @@ GET https://your-api-domain.com/api/appointments
 🔹 **Get appointment details by ID:**  
 ```http
 GET https://your-api-domain.com/api/appointments/{id}
+GET http://localhost:5000/api/appointments
 ```
 
 ---
